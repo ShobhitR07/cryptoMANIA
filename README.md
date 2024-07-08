@@ -1,2 +1,2 @@
 # cryptoMANIA
-crypto price tracker app  
+crypto price tracker app using react
